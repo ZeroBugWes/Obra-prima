@@ -35,8 +35,10 @@
   "name":"Obra prima",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprfundo","path":"sprites/Sprfundo/Sprfundo.yy",},},
     {"id":{"name":"SprPlayer","path":"sprites/SprPlayer/SprPlayer.yy",},},
     {"id":{"name":"SprPlayer2","path":"sprites/SprPlayer2/SprPlayer2.yy",},},
+    {"id":{"name":"SprTijolo","path":"sprites/SprTijolo/SprTijolo.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
