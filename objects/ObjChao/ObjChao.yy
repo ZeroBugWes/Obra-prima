@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"SprChao",
+    "path":"sprites/SprChao/SprChao.yy",
   },
   "spriteMaskId":null,
   "visible":true,
