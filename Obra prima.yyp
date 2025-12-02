@@ -42,6 +42,7 @@
     {"id":{"name":"SprChao","path":"sprites/SprChao/SprChao.yy",},},
     {"id":{"name":"Sprfundo","path":"sprites/Sprfundo/Sprfundo.yy",},},
     {"id":{"name":"SprLava","path":"sprites/SprLava/SprLava.yy",},},
+    {"id":{"name":"SprMonster","path":"sprites/SprMonster/SprMonster.yy",},},
     {"id":{"name":"SprPlayer","path":"sprites/SprPlayer/SprPlayer.yy",},},
     {"id":{"name":"SprPlayer2","path":"sprites/SprPlayer2/SprPlayer2.yy",},},
     {"id":{"name":"SprPlayerCorrendo","path":"sprites/SprPlayerCorrendo/SprPlayerCorrendo.yy",},},
