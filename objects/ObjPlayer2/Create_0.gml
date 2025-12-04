@@ -1,4 +1,4 @@
-gravidade = 0.5;
-vel_y = 0;
-vel_x = 0;
-move_speed = 4
+vel = 4;
+pulo = -8;
+grav = 0.4;
+vsp = 0;
